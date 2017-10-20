@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            test222test
+            test222test2
         ?>
     </body>
 </html>
